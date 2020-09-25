@@ -1,0 +1,36 @@
+
+
+
+
+
+.registros{
+    max-width: 700px;
+    max-height: 300px;
+    margin: 0 auto;
+
+}
+
+
+html {
+    min-height: 100%;
+    position: relative;
+  }
+  body {
+    background-color: rgba(204, 204, 204, 0.664) !important;
+    margin: 0;
+    padding-bottom: 100px;
+  }
+  footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 40px;
+ 
+    color: white;
+  }
+
+
+  .status{
+    min-height: 400px;
+  }
+
